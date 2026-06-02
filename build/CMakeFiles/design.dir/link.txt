@@ -1,1 +1,0 @@
-/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/design.dir/link.d CMakeFiles/design.dir/src/abstract_factory.cpp.o -o design
