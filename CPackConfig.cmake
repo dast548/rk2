@@ -1,0 +1,6 @@
+set(CPACK_PACKAGE_NAME "design")
+set(CPACK_PACKAGE_VERSION ${DESIGN_VERSION})
+set(CPACK_PACKAGE_DESCRIPTION_SUMMARY "Abstract Factory GoF Design Pattern")
+set(CPACK_PACKAGE_VENDOR "design")
+set(CPACK_PACKAGE_CONTACT "orlovsasha2007@gmail.com")
+include(CPack)

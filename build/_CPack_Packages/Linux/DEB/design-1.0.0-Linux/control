@@ -1,0 +1,8 @@
+Architecture: amd64
+Description: Abstract Factory GoF Design Pattern
+Maintainer: orlovsasha2007@gmail.com
+Package: design
+Priority: optional
+Section: devel
+Version: 1.0.0
+Installed-Size: 8948
